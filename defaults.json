@@ -1,0 +1,18 @@
+ 
+{
+  "windowTitle": "Photo Processor",
+  "imageSize": "1280x720",
+  "imageQuality": "80",
+  "thumbnailSize": "300x300",
+  "watermarkText": "My Watermark",
+  "watermarkFont": "Arial",
+  "watermarkFontSize": "auto",
+  "watermarkMargin": "auto",
+  "watermarkRotation": "30",
+  "watermarkDistortion": "50",
+  "watermarkOpacity": "30",
+  "watermarkColor": "white",
+  "removeOriginal": false,
+  "scriptPath": "./PhotoProcessor.sh",
+  "logoPath": "./logo.png"
+}
