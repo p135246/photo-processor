@@ -5,7 +5,7 @@
   "imageQuality": "80",
   "thumbnailSize": "300x300",
   "watermarkText": "My Watermark",
-  "watermarkFont": "Arial",
+  "watermarkFont": "Liberation-Sans",
   "watermarkFontSize": "auto",
   "watermarkMargin": "auto",
   "watermarkRotation": "30",
